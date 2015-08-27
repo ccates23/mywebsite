@@ -1,0 +1,80 @@
+
+
+h1  {
+	text-align: center;
+	padding-top: 100px;
+	font-size: 75px;
+	font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size: 40px;
+	margin-bottom: 30px;
+	margin-top: -4px;
+}
+.header {
+	background: url('https://ununsplash.imgix.net/photo-1428452788387-375d846a8ab4?fit=crop&fm=jpg&h=700&q=75&w=1050') no-repeat;
+	background-size: cover;
+	min-height: 650px;
+	max-width:  100%;
+}
+.aboutme {
+    min-height: 600px;
+	max-width:  100%;
+
+}
+
+.aboutme img {
+	width:  100%;
+	/*float: left;*/
+}
+
+.aboutme h2 {
+	padding-top: 50px;
+	font-size: 40px;
+
+}
+
+.skills {
+    min-height: 600px;
+	max-width:  100%;
+	background-color: black;
+}
+
+.skills h2 {
+	color: white;
+	padding-top: 60px;
+}
+
+.projects h2 {
+	padding-top: 60px;
+}
+
+.projects {
+	min-height: 600px;
+	max-width:  100%;
+}
+
+.projects p {
+	margin-top: 20px;
+}
+
+
+
+.img-responsive {
+	margin-top: 50px;
+}
+
+p {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size:  16px;
+}
+
+.contactbtn {
+	color: black;
+	text-align:  center;
+}
+
+
